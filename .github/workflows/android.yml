@@ -19,5 +19,5 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: app-armeabi-v7a-release-unsigned.apk
-        path: app/build/outputs/apk/common/release/app-common-armeabi-v7a-release-unsigned.apk
+        path: app/build/outputs/apk/common/release/app-common-armeabi-v7a-debug-unsigned.apk
 
